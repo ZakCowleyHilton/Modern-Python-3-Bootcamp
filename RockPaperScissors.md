@@ -12,12 +12,12 @@ This project consists of creating a simple game using python.
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Messy Data 1: <br/>
-<img src="https://drive.google.com/file/d/1JN3dwUIjS5irljpD5fLZYPvMu7dviOkM/view?usp=sharing"Step 1"/>
+RPS V1 - Basic code that executes but is not optimised <br/>
+<img src="https://i.imgur.com/5x0x6O4.png" height="80%" width="80%" alt="Step 1"/>
 <br />
 <br />
-Clean Data 1:  <br/>
-<img src="https://i.imgur.com/QL4vS0H.png" height="80%" width="80%" alt="Step 2"/>
+RPS V2 - Basic code that is nested and has a no cheating line which allows each player to not be able to see a previous players guess before putting inputting their guess  <br/>
+<img src="https://i.imgur.com/OwTz6JP.png" height="80%" width="80%" alt="Step 2"/>
 <br />
 <br />
 Messy Data 2: <br/>
