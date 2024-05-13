@@ -20,14 +20,7 @@ RPS V2 - Basic code that is nested and has a no cheating line which allows each 
 <img src="https://i.imgur.com/OwTz6JP.png" height="80%" width="80%" alt="Step 2"/>
 <br />
 <br />
-Messy Data 2: <br/>
-<img src="https://i.imgur.com/ZdETwat.png" height="80%" width="80%" alt="Step 3"/>
-<br />
-<br />
-Clean Data 2:  <br/>
-<img src="https://i.imgur.com/HymlcpL.png" height="80%" width="80%" alt="Step 4"/>
-<br />
-<br />
+
 
 <!--
  ```diff
